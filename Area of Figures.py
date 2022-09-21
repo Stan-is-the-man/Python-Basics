@@ -11,7 +11,6 @@ elif figure == 'rectangle':
     surface_rec = side_a * side_b
     print(f"{surface_rec:.3f}")
 
-
 elif figure == 'circle':
     radius = float(input())
     from math import pi
