@@ -9,6 +9,7 @@ if destination == "France":
         price = number_of_nights * 35
     elif period == "28-31":
         price = number_of_nights * 40
+        
 elif destination == "Italy":
     if period == "21-23":
         price = number_of_nights * 28
@@ -16,6 +17,7 @@ elif destination == "Italy":
         price = number_of_nights * 32
     elif period == "28-31":
         price = number_of_nights * 39
+        
 else:
     if period == "21-23":
         price = number_of_nights * 32
