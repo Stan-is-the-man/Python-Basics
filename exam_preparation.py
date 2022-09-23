@@ -5,6 +5,7 @@ number_of_problems = 0
 last_problem = ''
 is_expelled = False
 
+
 current_problem = input()
 
 while current_problem != "Enough":
