@@ -12,6 +12,7 @@ while command != 'END':
     command = input()
 
 print(f'{best_player} is the best player!')
+
 if max_goals >= 3:
     print(f'He has scored {max_goals} goals and made a hat-trick !!!')
 else:
