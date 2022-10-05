@@ -1,7 +1,6 @@
 flower_type = input()
 flower_quantity = int(input())
 budget = int(input())
-
 expences = 0
 
 if flower_type == 'Roses':
