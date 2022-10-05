@@ -28,6 +28,5 @@ for x in range(number_of_customers):
     else:
         print(f'You purchased {total_quantity} item for {total_price} leva.')
 
-
 avg_bill = total_price / number_of_customers
 print(f'Average bill per client is: {avg_bill:.2f} leva.')
