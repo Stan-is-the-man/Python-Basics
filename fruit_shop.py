@@ -27,6 +27,7 @@ if day_of_week in 'Monday Tuesday Wednesday Thursday Friday':
         print(f'{price:.2f}')
     else:
         print('error')
+        
 elif day_of_week in 'Saturday Sunday':
     if fruit == 'banana':
         price = (quantity * 2.70)
