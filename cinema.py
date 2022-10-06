@@ -11,4 +11,5 @@ elif type == 'Normal':
     total_income = number_of_seats * 7.50
 else:
     total_income = number_of_seats * 5.00
+    
 print(f'{total_income:.2f} leva')
