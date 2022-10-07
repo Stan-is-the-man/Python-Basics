@@ -28,6 +28,7 @@ elif month == 'July' or month == 'August':
     else:
         price_for_studio = 76 * number_of_nights
         price_for_apartment = 77 * number_of_nights
+        
 
 print(f"Apartment: {price_for_apartment:.2f} lv.")
 print(f'Studio: {price_for_studio:.2f} lv.')
