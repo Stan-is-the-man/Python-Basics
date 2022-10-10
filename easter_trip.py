@@ -2,7 +2,6 @@ destination = input()
 period = input()
 number_of_nights = int(input())
 
-
 if destination == "France":
     if period == "21-23":
         price = number_of_nights * 30
