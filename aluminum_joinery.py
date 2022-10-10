@@ -7,7 +7,6 @@ windows_price = 0
 if number_of_windows < 10:
     print('Invalid order')
 
-
 if type_of_delivery == 'With delivery':
     delivery = 60
 
