@@ -1,6 +1,5 @@
 start_number = input()
 end_number = input()
-
 n_1 = 0
 n_2 = 0
 n_3 = 0
