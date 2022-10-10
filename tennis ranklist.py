@@ -2,7 +2,6 @@ from math import floor
 
 number_of_tournaments = int(input())
 initial_points = int(input())
-
 won_points = 0
 won_tournaments = 0
 
