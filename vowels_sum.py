@@ -2,7 +2,6 @@ text = input()
 
 sum = 0
 for i in text:
-
     if i == 'a':
         sum += 1
     elif i == 'e':
