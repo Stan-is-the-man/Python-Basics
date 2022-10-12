@@ -1,7 +1,6 @@
 type = input()
 rows = int(input())
 columns = int(input())
-
 number_of_seats = rows * columns
 total_income = 0
 
