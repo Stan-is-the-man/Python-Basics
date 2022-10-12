@@ -14,6 +14,7 @@ while command != 'End of battle':
         if number_of_eggs_first_player == 0:
             print(f'Player one is out of eggs. Player two has {number_of_eggs_second_player} eggs left.')
             break
+            
 if command == "End of battle":
     print(f'Player one has {number_of_eggs_first_player} eggs left.')
     print(f'Player two has {number_of_eggs_second_player} eggs left.')
