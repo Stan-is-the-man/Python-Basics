@@ -1,5 +1,6 @@
 figure = input()
 
+
 if figure == 'square':
     side = float(input())
     surface_square = side * side
