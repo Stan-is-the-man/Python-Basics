@@ -2,6 +2,7 @@ number_of_dancers = int(input())
 points = float(input())
 season = input()
 place = input()
+
 prize_money = 0
 
 if place == 'Bulgaria':
