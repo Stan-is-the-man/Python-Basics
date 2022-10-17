@@ -45,6 +45,7 @@ if type_of_windows == '130X180':
         windows_price = 190
 
 price_of_windows = number_of_windows * windows_price
+
 if number_of_windows > 99 and number_of_windows > 10 :
     total = (price_of_windows + delivery) * 0.96
 else:
