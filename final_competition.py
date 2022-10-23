@@ -25,5 +25,6 @@ without_charity = prize_money * 0.25
 charity = prize_money * 0.75
 prize_per_dancer = without_charity / number_of_dancers
 
+
 print(f'Charity - {charity:.2f}')
 print(f'Money per dancer - {prize_per_dancer:.2f}')
