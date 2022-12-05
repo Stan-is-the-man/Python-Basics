@@ -11,7 +11,6 @@ price_desert = 0.2 * sum_of_all_dishes
 
 total_price = sum_of_all_dishes + price_desert + 2.5
 
-
 print(round(total_price , 2))
 
 
